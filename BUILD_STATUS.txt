@@ -1,0 +1,7 @@
+APK build status
+================
+The Android source project is provided. The APK could not be compiled in the authoring container because it has no Android SDK / Android Gradle Plugin / Gradle installation, and outbound package downloads are unavailable in that environment.
+
+Build locally in Android Studio, or use the included GitHub Actions workflow to produce app/build/outputs/apk/debug/app-debug.apk.
+
+The standalone SOCKS5 protocol smoke test passed: ./tools/test_core.sh
